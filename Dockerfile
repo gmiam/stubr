@@ -1,2 +1,3 @@
 FROM scratch
-COPY target/
+COPY target/release/stubr .
+ENTRYPOINT ["stubr"]
