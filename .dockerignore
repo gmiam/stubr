@@ -1,2 +1,4 @@
 */*
-!target/release/stubr
+!src
+!Cargo.toml
+!Cargo.lock
